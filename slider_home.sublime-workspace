@@ -1,0 +1,162 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Marcel Safont/Desktop/modificacions per al miguel/peu pagina institucional/523_patch_moduls_css.txt",
+		"/C/Users/Marcel Safont/Desktop/projectes/institucuional modificacio peu 14-12-2012/Universitat de Barcelona - Home.htm",
+		"/C/Users/Marcel Safont/Desktop/institucional svn/vfs/system/modules/edu.ub.presentation/resources/css/general.css",
+		"/C/Users/Marcel Safont/Desktop/institucional svn/vfs/system/modules/edu.ub.presentation/resources/css/moduls.css",
+		"/M/entornsweb/centre_patents/newsletter/newsletter.html",
+		"/C/xampp/htdocs/respositori/sites/all/themes/ub/css/styles-ub.css",
+		"/C/Users/Marcel Safont/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/parser.js",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/index.html",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/twitter.json",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/jquery.js",
+		"/C/Users/Marcel Safont/Desktop/twitter.json",
+		"/C/Users/Marcel Safont/AppData/Roaming/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top02",
+			"twitter_user",
+			"results",
+			"entities",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
