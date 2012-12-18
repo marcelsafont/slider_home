@@ -1,3 +1,33 @@
 body{
 	background-color: #ccc;
 }
+
+#slider{
+	width:600px;
+	height:300px;
+}
+
+#banners{
+	position:relative;
+	top:0;
+	left:0;
+	list-style-type:none;
+}
+
+#banners .caption{
+	position:relative;
+	height:40px;
+	width:450px;
+	background-color: red;
+	margin:0;
+}
+
+#thumbs{
+	position:relative;
+	top:0;
+	left: 550px;
+}
+
+#thumbs li{
+	margin-top:10px;
+}

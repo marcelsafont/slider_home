@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"a",
+				"a	<a>"
+			],
+			[
 				"background-",
 				"background-color"
 			]
@@ -15,16 +19,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 850,
+				"buffer_size": 974,
 				"line_ending": "Windows",
 				"name": "<html>"
 			}
 		},
 		{
-			"file": "js/plugin_slider.js",
+			"file": "js/jquery.plugin_slider.js",
 			"settings":
 			{
-				"buffer_size": 681,
+				"buffer_size": 439,
 				"line_ending": "Windows"
 			}
 		},
@@ -32,7 +36,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 32,
+				"buffer_size": 338,
 				"line_ending": "Windows"
 			}
 		},
@@ -40,7 +44,7 @@
 			"file": "js/init.js",
 			"settings":
 			{
-				"buffer_size": 293,
+				"buffer_size": 296,
 				"line_ending": "Windows"
 			}
 		}
@@ -143,47 +147,49 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 850,
+						"buffer_size": 974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								120,
-								120
+								744,
+								744
 							]
 						],
 						"settings":
 						{
 							"auto_name": "<html>",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 114.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "js/plugin_slider.js",
+					"file": "js/jquery.plugin_slider.js",
 					"settings":
 					{
-						"buffer_size": 681,
+						"buffer_size": 439,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								506,
-								506
+								323,
+								323
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -196,15 +202,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 32,
+						"buffer_size": 338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30,
-								30
+								143,
+								143
 							]
 						],
 						"settings":
@@ -222,15 +228,15 @@
 					"file": "js/init.js",
 					"settings":
 					{
-						"buffer_size": 293,
+						"buffer_size": 296,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								135,
-								135
+								138,
+								138
 							]
 						],
 						"settings":
