@@ -8,7 +8,7 @@ $.fn.slider_ub = function(){
 		//hover
 		function(){
 			var num = $(this).parent().index();
-			$('#banners li').css('opacity', '0');
+			$('#banners li').animate({opacity:0});
 			$('#banners .caption').css('top', '0px');
 			$('#banners li').eq(num).animate({opacity:1}, 1000);
 
